@@ -8,3 +8,5 @@ echo "こんにちは、世界！" >> hello_world.txt
 git add hello_world.txt
 git commit -m "日本語訳を追記"
 git log --oneline
+5ed21d7 (HEAD -> main) 日本語訳を追記
+97cd42e hello_world.txtを追加
